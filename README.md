@@ -175,16 +175,15 @@ studentID.npy
 
 ```
 .
-├── base.py
-├── studentID.py
-├── studentID.ipynb
+├── LLM_Model.py
+├── LLM_Model.ipynb
 ├── test_lm.py
 └── README.md
 ```
 
 File description:
 
-**studentID.py**
+**LLM_Model.py**
 
 Main script that:
 
